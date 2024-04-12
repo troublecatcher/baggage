@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429946350695",
+    "project_id": "baggage-921a9",
+    "storage_bucket": "baggage-921a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429946350695:android:7c94b721ffaa169d34b8c2",
+        "android_client_info": {
+          "package_name": "com.example.baggage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiRj2FwZU2GINn3Hj7ljvtMnu2rdXPHNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
